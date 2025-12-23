@@ -1,4 +1,4 @@
-# Projeto de Testes de API - Java 17, RestAssured & TestNG
+# Projeto ABTRACE TEST de API - Java 17, RestAssured & TestNG
 
 Este projeto contém testes de integração e end-to-end para APIs, utilizando **Java 17**, **RestAssured**, **TestNG** e recomenda-se a IDE **IntelliJ IDEA**.
 
