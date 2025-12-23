@@ -21,20 +21,22 @@ Antes de começar, certifique-se de ter instalado:
 2. **IntelliJ IDEA** (Community ou Ultimate Edition)
     - Recomendado para execução e depuração dos testes.
 
-3. **Maven** ou **Gradle** (dependendo de como está configurado o projeto)
+3. **Maven**
     - Para Maven:
       ```bash
       mvn -version
       ```
-    - Para Gradle:
-      ```bash
-      gradle -version
-      ```
-
 4. **Acesso à API**
     - Certifique-se de ter:
         - URL base da API (`baseURI`)
         - Token de autenticação válido (Bearer token ou outro método suportado)
+
+5. **RUN TESTS**
+    - Para correr os testes basta simplesmente clicar nas classes dentro de: src/test/java/tests com o botão direito e em "Run..."
+    - Em CMD (certefique-se de ter o maven instalado) basta usar o comando:
+    ```bash
+      mvn claen test
+      ```
 ---
 
 ## !! IMPORTANT !! READ ME !! IMPORTANT !!
