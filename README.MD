@@ -42,3 +42,7 @@ Antes de começar, certifique-se de ter instalado:
 DEVE FORNECE O TOKEN DE API MANUALMENTE NA CLASSE: src/main/java/com/abtrace/api/utils/TokenRetriever.java
 
 A geração do TOKEN pode também ser totalmente automatizado desde que tenha acesso ao "App Client do Cognito" podendo passar diretamente na class "AutoTokenRetriever" em src/main/java/com/abtrace/api/utils/AutoTokenRetriever.java
+
+## !! TEST RUN SHOW !!
+
+![Demonstração](JAVA/running gif api.gif)
